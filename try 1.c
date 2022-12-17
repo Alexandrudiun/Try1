@@ -32,7 +32,7 @@ FILE *inputCerinte = fopen(argv[1], "r");
     int suma=0;
     while(reading)
         { suma=0;
-         scanf(input,"%s)
+         scanf(input,"%s")
 
             for(int i =0; i<strlen(input);i++)
             {
